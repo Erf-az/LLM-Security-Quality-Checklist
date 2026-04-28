@@ -116,10 +116,6 @@ Fail the pipeline if any critical test returns a vulnerability.
 
 Contributions are welcome! If you have additional test cases, improved payloads, or new automated tool integrations, please open an issue or submit a pull request.
 
-## 📄 License
-
-This checklist is provided under the [MIT License](./LICENSE) – feel free to use, modify, and distribute with attribution.
-
 ## 📚 References
 
 - [MITRE ATLAS](https://atlas.mitre.org/)
